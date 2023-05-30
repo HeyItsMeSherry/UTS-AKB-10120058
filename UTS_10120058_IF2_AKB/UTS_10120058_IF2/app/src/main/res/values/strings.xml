@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">10120058_Note Application</string>
+    <string name="profile">Profile</string>
+    <string name="note">Notes</string>
+    <string name="info">Info</string>
+    <string name="nama">Nama: Vidi Anandisa Fortuna</string>
+    <string name="kelas">Kelas: IF2</string>
+    <string name="nim">NIM: 10120058</string>
+    <string name="email">Email: AnotherBrokenHeart@outlook.com</string>
+    <string name="txt_welcome">Diese App wurde von Vidi Anandisa Fortuna erstellt</string>
+    <string name="txt_intro">Diese Anwendung wurde erstellt, um die Anwendungsanforderungen der UTS Mobile Computing Application an der Universitas Komputer Indonesia (Unikom) zu erfüllen..</string>
+    <string name="page1">Page 1 of 2</string>
+    <string name="page2">Page 2 of 2</string>
+    <string name="memo">How To Create Notes</string>
+    <string name="penjelasan">Drücken Sie in der Navigationsleiste unten auf „Notizen“ und dann auf das Pluszeichen unten rechts.</string>
+    <string name="txt_add">Add Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
